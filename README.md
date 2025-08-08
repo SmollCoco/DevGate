@@ -6,7 +6,7 @@ https://devgate-6df87.web.app/
 
 ## Members
 - Manal ZAIDI
-- Youssef BENTALEB
+- Youssef BENTALEB (me)
 - Youssef GUERAIRATE
 - Anir ACHIBANE
 
